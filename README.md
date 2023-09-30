@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaurav Patil</h1>
 <h3 align="center">A passionate .NET Full Stack developer from India</h3>
 
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/gaurav-patil-portfolio.appspot.com/o/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png?alt=media&token=f917964a-af7b-4954-a6bd-3deab695196b&_gl=1*13jdmfh*_ga*MTk4MDAzODY2MC4xNjk0MjA1NTY4*_ga_CW55HF8NVT*MTY5NjA2NzQyMS4yMC4xLjE2OTYwNjc0NTIuMjkuMC4w)](https://gaurav-patil.netlify.app/)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpatil7&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpatil7" alt="gauravpatil7" /></a> </p>
